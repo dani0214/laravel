@@ -1,0 +1,55 @@
+/* Style page*/
+*{
+  font-family: 'Optima';
+}
+.menu{
+  font-size: 19px;
+}
+.navbar{
+  margin-right: 2%;
+}
+footer{
+  margin-left: 5%;
+  font-size: 19px;
+}
+.nav-link{
+
+ font-size: 18px;
+}
+a{
+  color: darkcyan;
+}
+a:hover{
+  color: cadetblue;
+}
+/* Style buttons */
+.btn {
+    background-color: darkcyan; /* Blue background */
+    border: none; /* Remove borders */
+    color: white; /* White text */
+    padding: 12px 16px; /* Some padding */
+    font-size: 16px; /* Set a font size */
+    cursor: pointer; /* Mouse pointer on hover */
+  }
+  
+  /* Darker background on mouse-over */
+  .btn:hover {
+    background-color: cadetblue;
+    color: black;
+  }
+
+  .btn i a{
+    color: white; /* White text */
+  }
+  .btn i a:hover{
+    color: black; /* White text */
+  }
+  a:hover{
+      text-decoration:none
+  }
+  #btn_disabled:hover{
+    color: white; /* White text */
+  }
+  #btn_disabled:hover{
+    color: white; /* White text */
+  }

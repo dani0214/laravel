@@ -7,5 +7,6 @@ use Illuminate\Database\Eloquent\Model;
 
 class Destacado extends Model
 {
-    //use HasFactory;
+    use HasFactory;
+
 }

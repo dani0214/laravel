@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'previous' => '&lArr; ',
-    'next' => ' &rArr;'
+    'previous' => "<i class='fa fa-angle-double-left'></i>",
+    'next' => "<i class='fa fa-angle-double-right'></i>"
 
 ];
